@@ -3,6 +3,8 @@
 ## Directional Reliability in AI-Mediated Political Dialogue
 
 **Jaeyoun You** (Ph.D. in HCI)
+
+Adjunct Professor
 Department of Social Innovation Convergence, Hanyang University 
 
 ---
