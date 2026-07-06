@@ -31,7 +31,7 @@ Rather than treating reliability as a property of model outputs alone, this work
 
 Presentation poster from **PhilML @ ICML 2026**
 
-➡️ **[Poster (PDF)](poster.pdf)**
+➡️ **[Poster (PDF)](Directional_Reliability_Poster_ICML2026.pdf)**
 
 ---
 
